@@ -1,4 +1,4 @@
-$env:Path = "C:\Users\HP\AppData\Local\Programs\Git\cmd;$env:Path"
+$env:Path = "C:\Users\HP\AppData\Local\Programs\Git\cmd;C:\Users\HP\AppData\Local\Programs\Git\ucrt64\bin;C:\Users\HP\AppData\Local\Programs\Git\usr\bin;$env:Path"
 Write-Host "========================================================" -ForegroundColor Cyan
 Write-Host "Pushing SkyPoints11 project to GitHub (branch: main)" -ForegroundColor Cyan
 Write-Host "Remote: https://github.com/aswinunnisunil/SkyPoints11.git" -ForegroundColor Cyan

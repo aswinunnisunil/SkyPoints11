@@ -1,5 +1,5 @@
 @echo off
-set "PATH=C:\Users\HP\AppData\Local\Programs\Git\cmd;%PATH%"
+set "PATH=C:\Users\HP\AppData\Local\Programs\Git\cmd;C:\Users\HP\AppData\Local\Programs\Git\ucrt64\bin;C:\Users\HP\AppData\Local\Programs\Git\usr\bin;%PATH%"
 echo ========================================================
 echo Pushing SkyPoints11 project to GitHub (branch: main)
 echo Remote: https://github.com/aswinunnisunil/SkyPoints11.git
